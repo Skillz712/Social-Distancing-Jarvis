@@ -20,4 +20,9 @@ The code can be executed in Google Colab by following the guideline below:
     * /content/Jarvis-Darknet/videooutput/CrowdMap.avi
 
 Note: For change the video input, change 'videoname.avi' for another video name located in the Google Drive folder, for example:
+
 <img src = "video.jpg" width=410>
+
+With the name change:
+
+<img src = "video1.jpg" width=410>
