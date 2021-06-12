@@ -42,6 +42,7 @@ Anyway, a detailed steps to run the code are in the Google Colab 'JARVIS_oficial
 ## Social Distancing Detection Online Execution on Colab
 
 <img src = "SD.jpg" width=410>
+<img src = "CrowdMap.jpg" width=410>
 
 ## Guideline to Run the Code:
 ____________________________________
