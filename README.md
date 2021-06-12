@@ -3,6 +3,34 @@ Jarvis Team repository of Social Distancing Project
 
 Paper:
 
+## Guideline to Run Training Model:
+
+The training code is in'oficialjarvis_yolov4_training.ipynb' Google Colab Notebook
+
+1. Get GPU
+2. Clone and compile Darknet
+3. Get a pre trained neural network
+4. Customize a new dataset for a new over training
+5. Train Yolov4
+6. Test training in new image
+
+Anyway, a detailed steps to run the code are in the Google Colab 'oficialjarvis_yolov4_training.ipynb' file
+
+
+## Guideline to Run our COCO dataset
+
+The COCO dataset code is in the 'oficialjarvis_yolov4_training.ipynb' Google Colab Notebook 
+
+1. Download train/validation/test dataset from COCO
+2. Unzip all folders
+3. Choose the class you want to download
+4. Zip all the class images
+5. Download it!
+
+Anyway, a detailed steps to run the code are in the Google Colab 'oficialjarvis_yolov4_training.ipynb' file
+
+
+
 ## Online Execution on Colab
 
 ## Guideline to Run the Code:
@@ -28,15 +56,3 @@ With the name change:
 <img src = "video1.jpg" width=410>
 
 
-## Guideline to Run Training Model:
-
-The training code 'oficialjarvis_yolov4_training.ipynb' 
-
-1. Get GPU
-2. Clone and compile Darknet
-3. Get a pre trained neural network
-4. Customize a new dataset for a new over training
-5. Train Yolov4
-6. Test training in new image
-
-Anyway, a detailed steps to run the code are in the Google Colab 'oficialjarvis_yolov4_training.ipynb' file
