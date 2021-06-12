@@ -26,3 +26,17 @@ Note: For change the video input, change 'videoname.avi' for another video name 
 With the name change:
 
 <img src = "video1.jpg" width=410>
+
+
+## Guideline to Run Training Model:
+
+The training code 'oficialjarvis_yolov4_training.ipynb' 
+
+1. Get GPU
+2. Clone and compile Darknet
+3. Get a pre trained neural network
+4. Customize a new dataset for a new over training
+5. Train Yolov4
+6. Test training in new image
+
+Anyway, a detailed steps to run the code are in the Google Colab 'oficialjarvis_yolov4_training.ipynb' file
