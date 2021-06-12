@@ -3,7 +3,11 @@ Jarvis Team repository of Social Distancing Project
 
 Paper:
 
+
+
 ## Guideline to Run Training Model:
+
+<img src = "training.jpg" width=410>
 
 The training code is in'oficialjarvis_yolov4_training.ipynb' Google Colab Notebook
 
@@ -17,7 +21,11 @@ The training code is in'oficialjarvis_yolov4_training.ipynb' Google Colab Notebo
 Anyway, a detailed steps to run the code are in the Google Colab 'oficialjarvis_yolov4_training.ipynb' file
 
 
+
+
 ## Guideline to Run our COCO dataset
+
+<img src = "coco.jpg" width=410>
 
 The COCO dataset code is in the 'JARVIS_oficial_COCO_Dataset.ipynb' Google Colab Notebook 
 
@@ -27,11 +35,13 @@ The COCO dataset code is in the 'JARVIS_oficial_COCO_Dataset.ipynb' Google Colab
 4. Zip all the class images
 5. Download it!
 
-Anyway, a detailed steps to run the code are in the Google Colab 'oficialjarvis_yolov4_training.ipynb' file
+Anyway, a detailed steps to run the code are in the Google Colab 'JARVIS_oficial_COCO_Dataset.ipynb' file
 
 
 
-## Online Execution on Colab
+## Social Distancing Detection Online Execution on Colab
+
+<img src = "SD.jpg" width=410>
 
 ## Guideline to Run the Code:
 ____________________________________
