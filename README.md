@@ -19,7 +19,7 @@ Anyway, a detailed steps to run the code are in the Google Colab 'oficialjarvis_
 
 ## Guideline to Run our COCO dataset
 
-The COCO dataset code is in the 'oficialjarvis_yolov4_training.ipynb' Google Colab Notebook 
+The COCO dataset code is in the 'JARVIS_oficial_COCO_Dataset.ipynb' Google Colab Notebook 
 
 1. Download train/validation/test dataset from COCO
 2. Unzip all folders
