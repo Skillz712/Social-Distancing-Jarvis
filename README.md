@@ -18,3 +18,4 @@ The code can be executed in Google Colab by following the guideline below:
 6. The program would keep running showing a detection progress bar untill reaching 100% and ends by generating 2 output video files in **Jarvis-Darknet/videooutput** folder, as follows:
     * /content/Jarvis-Darknet/videooutput/Detection.avi
     * /content/Jarvis-Darknet/videooutput/CrowdMap.avi
+Note: For change the video input, change the 'videoname.avi' for another video name in the Google Drive folder, for example:
